@@ -1,0 +1,16 @@
+{
+  "name": "babylongame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babylonjs/core": "^5.0.0-rc.13",
+    "babylonjs": "^7.13.1"
+  }
+}
